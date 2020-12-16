@@ -1,0 +1,6 @@
+{
+    "name": "getting-started-node",
+    "version": "1.0.0",
+    "description": "A Node project to learn the basics",
+    "main": "app.js"
+}
