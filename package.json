@@ -4,6 +4,7 @@
     "description": "A Node project to learn the basics",
     "main": "app.js",
     "dependencies": {
+        "axios": "^0.21.0",
         "node": "15.4.0",
         "node-bin-setup": "1.0.6"
     },
