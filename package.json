@@ -6,5 +6,6 @@
     "dependencies": {
         "node": "15.4.0",
         "node-bin-setup": "1.0.6"
-    }
+    },
+    "license": "MIT"
 }
