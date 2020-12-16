@@ -2,5 +2,9 @@
     "name": "getting-started-node",
     "version": "1.0.0",
     "description": "A Node project to learn the basics",
-    "main": "app.js"
+    "main": "app.js",
+    "dependencies": {
+        "node": "15.4.0",
+        "node-bin-setup": "1.0.6"
+    }
 }
