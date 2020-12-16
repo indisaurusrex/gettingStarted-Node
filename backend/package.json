@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend for a practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indisaurusrex/gettingStarted-Node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "India",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indisaurusrex/gettingStarted-Node/issues"
+  },
+  "homepage": "https://github.com/indisaurusrex/gettingStarted-Node#readme"
+}
